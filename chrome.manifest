@@ -1,0 +1,3 @@
+content ux ./
+resource ux ./
+overlay chrome://browser/content/browser.xul chrome://ux/content
